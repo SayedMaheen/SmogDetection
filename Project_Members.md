@@ -17,5 +17,5 @@ Secure and Private AI challenge (SPAIC) Course
 @Alexander Villasoto <br/>
 @LauraT <br/>
 
-![alt text]( https://github.com/SayedMaheen/SmogDetection/sample_images/smogdetectedsample.png)
-![alt text]( https://github.com/SayedMaheen/SmogDetection/sample_images/roadisclearsample.png)
+![alt text]( https://github.com/SayedMaheen/SmogDetection/sample_images/smogdetectedsample.PNG)
+![alt text]( https://github.com/SayedMaheen/SmogDetection/sample_images/roadisclearsample.PNG)
