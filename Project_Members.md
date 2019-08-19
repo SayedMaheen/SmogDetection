@@ -18,4 +18,4 @@ Secure and Private AI challenge (SPAIC) Course
 @LauraT <br/>
 
 ![alt text]( https://github.com/SayedMaheen/SmogDetection/blob/master/sample_images/smogdetectedsample.PNG)
-![alt text]( https://github.com/SayedMaheen/SmogDetection/blob/master/sample_images/roadisclearsample.PNG)
+![alt text]( https://github.com/SayedMaheen/SmogDetection/blob/master/sample_images/roadisclearsample1.PNG)
