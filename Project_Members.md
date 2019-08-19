@@ -1,8 +1,8 @@
 # SmogDetection
 Secure and Private AI challenge (SPAIC) Course
 ----------------
-# Project Showcase Challenge: Members->
-----------------
+## Project Showcase Challenge: Members->
+
 @Berenice  <br/>
 @Shudipto Trafder <br/>
 @Pooja Vinod <br/>
