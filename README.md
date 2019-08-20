@@ -19,7 +19,7 @@ Laura Truncellito - @LauraT
 
 # Project Overview
 
-<p>This is a project for the Project Showcase Challnege of the Udacity Facebook Secure and Private AI Challenge Scholarship Program.</p>
+<p>This is a project for the Project Showcase Challenge of the Udacity Facebook Secure and Private AI Challenge Scholarship Program.</p>
 <p>The purpose of the project is to detect smog using image classifcation algorithms. You can upload images here and our algorithms will know if the environment has smog or clear: https://smog4000.onrender.com/ </p>
 
 
