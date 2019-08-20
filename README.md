@@ -2,8 +2,8 @@
 Secure and Private AI challenge (SPAIC) Course
 ----------------
 #sg_planetearth Group Project 
-Project members:
-@Berenice @Shudipto Trafder @Pooja Vinod @Ingus Terbets @Akash Antony @Viper @Agata [OR, USA] @Sayed Maheen Basheer @Abhishek Lalwani @George Christopoulos @sourav kumar @Alexander Villasoto @LauraT
+Project members:<br/>
+@Berenice <br/> @Shudipto Trafder<br/> @Pooja Vinod <br/>@Ingus Terbets <br/>@Akash Antony <br/>@Viper <br/>@Agata [OR, USA] <br/>@Sayed Maheen Basheer<br/> @Abhishek Lalwani<br/> @George Christopoulos<br/> @sourav kumar<br/> @Alexander Villasoto <br/>@LauraT
 
 # Project Overview
 
