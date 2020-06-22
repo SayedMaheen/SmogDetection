@@ -119,7 +119,7 @@ https://github.com/SayedMaheen/sg_PlanetEarth </br>
 **'Smog' Detection**
 
 ![](screenshots/Capture.JPG)
-
+!(sample_images/roadisclear.png)
 ________________________________________________________________________________________________________________________________________
 
 **'Clear' Detection**
