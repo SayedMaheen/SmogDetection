@@ -119,13 +119,13 @@ https://github.com/SayedMaheen/sg_PlanetEarth </br>
 **'Smog' Detection**
 
 ![](screenshots/Capture.JPG)
-!(sample_images/roadisclear.png)
+![SmogDetectedImage]( https://github.com/SayedMaheen/SmogDetection/blob/master/sample_images/smogdetectedsample.PNG)
 ________________________________________________________________________________________________________________________________________
 
 **'Clear' Detection**
 
 ![](screenshots/Capture1.JPG)
-
+![RoadIsClearImage]( https://github.com/SayedMaheen/SmogDetection/blob/master/sample_images/roadisclearsample1.PNG)
 
 While  the application works for all images, it works best for highway images.
 ****************************************************************************************************************************************
